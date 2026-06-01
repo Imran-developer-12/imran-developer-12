@@ -33,11 +33,11 @@ I am Muhammad Imran, a passionate Full Stack Web Developer and CIT student. I bu
 
 <div align="center">
 
-| Project | Technologies | Links |
-|:--------|:-------------|:------|
-| **College Websites** | HTML, CSS, JavaScript | [Live](https://gctbhakkar.netlify.app/) \| [📁Repo](https://github.com/Imran-developer-12/gct-website) |
-| **AI Voice Assistant** | HTML, CSS, JavaScript, Node.js | [Live](https://imran-developer-12.github.io/AI-Voice-Assisstant/) \| [📁Repo](https://github.com/imran-developer-12/AI-Voice-Assisstant) |
-| **Tic Tac Toe Game** | HTML, CSS, JavaScript | [Live](https://imran-developer-12.github.io/-Tic-tac-toe-game/) \| [📁Repo](https://github.com/imran-developer-12/-Tic-tac-toe-game) |
+| Project | Description | Tech Stack | Links |
+|:---------|:------------|:-----------|:------|
+| 🎓 **College Website** | Responsive educational website for students and faculty. | HTML, CSS, JavaScript | [Live](https://gctbhakkar.netlify.app/) • [📁 Repo](https://github.com/Imran-developer-12/gct-website) |
+| 🎤 **AI Voice Assistant** | Voice-controlled web assistant with interactive features. | HTML, CSS, JavaScript, Node.js | [Live](https://imran-developer-12.github.io/AI-Voice-Assisstant/) • [📁 Repo](https://github.com/imran-developer-12/AI-Voice-Assisstant) |
+| 🎮 **Tic Tac Toe Game** | Interactive game built with JavaScript logic. | HTML, CSS, JavaScript | [Live](https://imran-developer-12.github.io/-Tic-tac-toe-game/) • [📁 Repo](https://github.com/imran-developer-12/-Tic-tac-toe-game) |
 
 </div>
 
