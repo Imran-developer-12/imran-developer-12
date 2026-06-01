@@ -1,6 +1,6 @@
 <div align="center">
   
-# ✦ MUHAMMAD IMRAN ✦
+# ⚡Hi,I'm Muhammad Imran ⚡
 
 ### Full Stack Web Developer | CIT Student | MERN Stack Learner
 
@@ -12,7 +12,7 @@
 
 ## ▸ About Me
 
-I am Muhammad Imran, a passionate Full Stack Web Developer and a Computer Information Technology (CIT) student. I specialize in building modern, responsive web interfaces using HTML, CSS, JavaScript, and Bootstrap. Alongside web development, I strengthen my programming logic with C++ (OOP). I am currently deepening my expertise in JavaScript and actively learning the MERN Stack to become a complete full stack developer. I am always open to internships, freelance projects, and meaningful collaborations. Coding with focus and consistency defines my journey.
+I am Muhammad Imran, a passionate Full Stack Web Developer and CIT student. I build modern, responsive web applications using HTML, CSS, JavaScript, and Bootstrap. Currently, I am expanding my skills in JavaScript, Node.js, and the MERN Stack while strengthening my programming foundation with C++. I am open to internships, freelance opportunities, and collaborative projects.
 
 ---
 
@@ -24,7 +24,7 @@ I am Muhammad Imran, a passionate Full Stack Web Developer and a Computer Inform
 |:-----------:|:---------------------:|:-----------------------:|:----------------------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/><br/>HTML | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/><br/>Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/><br/>C++ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/><br/>Git |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/><br/>CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/><br/>MongoDB | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/><br/>JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/><br/>VS Code |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/><br/>Bootstrap | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/><br/>MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/><br/>Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/><br/>Figma |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/><br/>Bootstrap | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/><br/>MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/><br/>Figma |
 
 </div>
 
@@ -36,9 +36,9 @@ I am Muhammad Imran, a passionate Full Stack Web Developer and a Computer Inform
 
 | Project | Technologies | Links |
 |:--------|:-------------|:------|
-| **College Websites** | HTML, CSS, JavaScript | [Live](https://gctbhakkar.netlify.app/) \| [Repo](https://github.com/Imran-developer-12/gct-website) |
-| **AI Voice Assistant** | HTML, CSS, JavaScript, Node.js | [Live](https://imran-developer-12.github.io/AI-Voice-Assisstant/) \| [Repo](https://github.com/imran-developer-12/AI-Voice-Assisstant) |
-| **Tic Tac Toe Game** | HTML, CSS, JavaScript | [Live](https://imran-developer-12.github.io/-Tic-tac-toe-game/) \| [Repo](https://github.com/imran-developer-12/-Tic-tac-toe-game) |
+| **College Websites** | HTML, CSS, JavaScript | [Live](https://gctbhakkar.netlify.app/) \| [📁Repo](https://github.com/Imran-developer-12/gct-website) |
+| **AI Voice Assistant** | HTML, CSS, JavaScript, Node.js | [Live](https://imran-developer-12.github.io/AI-Voice-Assisstant/) \| [📁Repo](https://github.com/imran-developer-12/AI-Voice-Assisstant) |
+| **Tic Tac Toe Game** | HTML, CSS, JavaScript | [Live](https://imran-developer-12.github.io/-Tic-tac-toe-game/) \| [📁Repo](https://github.com/imran-developer-12/-Tic-tac-toe-game) |
 
 </div>
 
@@ -47,7 +47,7 @@ I am Muhammad Imran, a passionate Full Stack Web Developer and a Computer Inform
 ## ▸ Education
 
 - Diploma in CIT — Govt. College of Technology (2024 - Present)
-- SSC (Science) — (2022 - 2024)
+- Matric in Govt High School Behal Bhakkar (Science) — (2022 - 2024)
 
 ---
 
@@ -71,13 +71,7 @@ I am Muhammad Imran, a passionate Full Stack Web Developer and a Computer Inform
 
 ---
 
-## ▸ Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imran-developer-12&theme=tokyonight&no-frame=true&row=2&column=4" />
-</div>
-
----
 
 ## ▸ Connect With Me
 
@@ -99,9 +93,13 @@ I am Muhammad Imran, a passionate Full Stack Web Developer and a Computer Inform
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" />
 </div>
 
 <div align="center">
-  Code with passion, build with purpose.
+ <div align="center">
+
+### 💙 Code with Passion • 🚀 Build with Purpose • ⭐ Grow Every Day
+
+</div>
 </div>
