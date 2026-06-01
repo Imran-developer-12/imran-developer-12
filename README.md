@@ -20,68 +20,11 @@ I am Muhammad Imran, a passionate Full Stack Web Developer and a Computer Inform
 
 <div align="center">
 
-<table>
-  <tr>
-    <th align="center" width="25%">🎨 Frontend</th>
-    <th align="center" width="25%">⚙️ Backend & Database</th>
-    <th align="center" width="25%">💻 Programming Languages</th>
-    <th align="center" width="25%">🧰 Tools & Technologies</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/><br/>
-      <b>HTML</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/><br/>
-      <b>Node.js</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/><br/>
-      <b>C++</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/><br/>
-      <b>Git</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/><br/>
-      <b>CSS</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/><br/>
-      <b>MongoDB</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/><br/>
-      <b>JavaScript</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/><br/>
-      <b>VS Code</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/><br/>
-      <b>Bootstrap</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/><br/>
-      <b>MySQL</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/><br/>
-      <b>Python</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/><br/>
-      <b>Figma</b>
-    </td>
-  </tr>
-</table>
+| 🎨 Frontend | ⚙️ Backend & Database | 💻 Programming Languages | 🧰 Tools & Technologies |
+|:-----------:|:---------------------:|:-----------------------:|:----------------------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/><br/><b>HTML</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/><br/><b>Node.js</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/><br/><b>C++</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/><br/><b>Git</b> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/><br/><b>CSS</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/><br/><b>MongoDB</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/><br/><b>JavaScript</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/><br/><b>VS Code</b> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/><br/><b>Bootstrap</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/><br/><b>MySQL</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/><br/><b>Python</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/><br/><b>Figma</b> |
 
 </div>
 
@@ -105,14 +48,6 @@ I am Muhammad Imran, a passionate Full Stack Web Developer and a Computer Inform
 
 - **Diploma in CIT** — Govt. College of Technology (2024 - Present)
 - **SSC (Science)** — (2022 - 2024)
-
----
-
-## ▸ Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imran-developer-12&theme=react-dark&bg_color=0a0a0a&hide_border=true&area=true&color=00F7FF&line=00F7FF&point=FFFFFF" width="90%" />
-</div>
 
 ---
 
