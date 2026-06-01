@@ -20,11 +20,11 @@ I am Muhammad Imran, a passionate Full Stack Web Developer and CIT student. I bu
 
 <div align="center">
 
-| 🎨 Frontend | ⚙️ Backend & Database | 💻 Programming Languages | 🧰 Tools & Technologies |
-|:---------:|:------------------:|:----------------------:|:---------------------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/><br/>HTML | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/><br/>Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/><br/>C++ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/><br/>Git |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/><br/>CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/><br/>MongoDB | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/><br/>JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/><br/>VS Code |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35"/><br/>Bootstrap | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/><br/>MySQL | — | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35"/><br/>Figma |
+| 🎨 Frontend | ⚙️ Backend | 💻 Languages | 🧰 Tools |
+|:---------:|:---------:|:-----------:|:-------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/><br/>HTML | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24"/><br/>Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24"/><br/>C++ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24"/><br/>Git |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24"/><br/>CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24"/><br/>MongoDB | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/><br/>JS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24"/><br/>VS Code |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="24"/><br/>Bootstrap | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24"/><br/>MySQL | — | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="24"/><br/>Figma |
 
 </div>
 ---
@@ -35,8 +35,8 @@ I am Muhammad Imran, a passionate Full Stack Web Developer and CIT student. I bu
 
 | Project | Description | Tech Stack | Links |
 |:---------|:------------|:-----------|:------|
-| 🎓 **College Website** | Responsive educational website for students and faculty. | HTML, CSS, JavaScript | [Live](https://gctbhakkar.netlify.app/) • [📁 Repo](https://github.com/Imran-developer-12/gct-website) |
-| 🎤 **AI Voice Assistant** | Voice-controlled web assistant with interactive features. | HTML, CSS, JavaScript, Node.js | [Live](https://imran-developer-12.github.io/AI-Voice-Assisstant/) • [📁 Repo](https://github.com/imran-developer-12/AI-Voice-Assisstant) |
+| 🎓 **College Website** | Responsive educational website. | HTML, CSS, JavaScript | [Live](https://gctbhakkar.netlify.app/) • [📁 Repo](https://github.com/Imran-developer-12/gct-website) |
+| 🎤 **AI Voice Assistant** | Voice-controlled web assistant. | HTML, CSS, JavaScript, Node.js | [Live](https://imran-developer-12.github.io/AI-Voice-Assisstant/) • [📁 Repo](https://github.com/imran-developer-12/AI-Voice-Assisstant) |
 | 🎮 **Tic Tac Toe Game** | Interactive game built with JavaScript logic. | HTML, CSS, JavaScript | [Live](https://imran-developer-12.github.io/-Tic-tac-toe-game/) • [📁 Repo](https://github.com/imran-developer-12/-Tic-tac-toe-game) |
 
 </div>
