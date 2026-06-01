@@ -10,13 +10,13 @@
 
 ---
 
-## ▸ About Me
+## <span style="color:#00F7FF; font-weight:bold; font-size:1.5em;">▸ About Me</span>
 
 I am Muhammad Imran, a passionate Full Stack Web Developer and a Computer Information Technology (CIT) student. I specialize in building modern, responsive web interfaces using HTML, CSS, JavaScript, and Bootstrap. Alongside web development, I strengthen my programming logic with C++ (OOP). I am currently deepening my expertise in JavaScript and actively learning the MERN Stack to become a complete full stack developer. I am always open to internships, freelance projects, and meaningful collaborations. Coding with focus and consistency defines my journey.
 
 ---
 
-## ▸ Technical Expertise
+## <span style="color:#00F7FF; font-weight:bold; font-size:1.5em;">▸ Technical Expertise</span>
 
 <div align="center">
 
@@ -30,7 +30,7 @@ I am Muhammad Imran, a passionate Full Stack Web Developer and a Computer Inform
 
 ---
 
-## ▸ Featured Projects
+## <span style="color:#00F7FF; font-weight:bold; font-size:1.5em;">▸ Featured Projects</span>
 
 <div align="center">
 
@@ -44,14 +44,14 @@ I am Muhammad Imran, a passionate Full Stack Web Developer and a Computer Inform
 
 ---
 
-## ▸ Education
+## <span style="color:#00F7FF; font-weight:bold; font-size:1.5em;">▸ Education</span>
 
 - **Diploma in CIT** — Govt. College of Technology (2024 - Present)
 - **SSC (Science)** — (2022 - 2024)
 
 ---
 
-## ▸ Coding Snake
+## <span style="color:#00F7FF; font-weight:bold; font-size:1.5em;">▸ Coding Snake</span>
 
 <div align="center">
   <picture>
@@ -63,23 +63,7 @@ I am Muhammad Imran, a passionate Full Stack Web Developer and a Computer Inform
 
 ---
 
-## ▸ Weekly Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=imran-developer-12&theme=tokyonight&layout=compact&bg_color=0a0a0a&hide_border=true" alt="WakaTime Stats" />
-</div>
-
----
-
-## ▸ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
-
----
-
-## ▸ Profile Views
+## <span style="color:#00F7FF; font-weight:bold; font-size:1.5em;">▸ Profile Views</span>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=imran-developer-12&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views" />
@@ -91,7 +75,7 @@ I am Muhammad Imran, a passionate Full Stack Web Developer and a Computer Inform
 
 ---
 
-## ▸ Achievements
+## <span style="color:#00F7FF; font-weight:bold; font-size:1.5em;">▸ Achievements</span>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=imran-developer-12&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" />
@@ -99,7 +83,7 @@ I am Muhammad Imran, a passionate Full Stack Web Developer and a Computer Inform
 
 ---
 
-## ▸ Connect With Me
+## <span style="color:#00F7FF; font-weight:bold; font-size:1.5em;">▸ Connect With Me</span>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-i-7a391b3a9">
