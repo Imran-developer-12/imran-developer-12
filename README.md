@@ -34,51 +34,84 @@
 
 ## 🛠️ Technical Expertise
 
-### 🎨 Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
-
----
-
-### ⚙️ Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
-</p>
-
----
-
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js" />
-</p>
-
----
-
-### 🧰 Tools & Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br /><strong>HTML5</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br /><strong>CSS3</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <br /><strong>Bootstrap</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br /><strong>React</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br /><strong>Express</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br /><strong>MongoDB</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br /><strong>MySQL</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br /><strong>C++</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br /><strong>Git</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br /><strong>VS Code</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br /><strong>Figma</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+      <br /><strong>Vercel</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
+      <br /><strong>Netlify</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Projects
 
-🔹 **College Websites**  
-➡️ HTML, CSS, JavaScript  
-[🔴 Live](https://gctbhakkar.netlify.app/) | [💻 Repo](https://github.com/Imran-developer-12/gct-website)
-
----
-
-🔹 **AI Voice Assistant**  
-➡️ HTML, CSS, JavaScript, Node.js  
-[🔴 Live](https://imran-developer-12.github.io/AI-Voice-Assisstant/) | [💻 Repo](https://github.com/imran-developer-12/AI-Voice-Assisstant)
-
----
-
-🔹 **Tic Tac Toe Web App**  
-➡️ HTML, CSS, JavaScript  
-[🔴 Live](https://imran-developer-12.github.io/-Tic-tac-toe-game/) | [💻 Repo](https://github.com/imran-developer-12/-Tic-tac-toe-game)
+| Project | Technologies | Links |
+|---------|--------------|-------|
+| **College Websites** | HTML, CSS, JavaScript | [🔴 Live](https://gctbhakkar.netlify.app/) \| [💻 Repo](https://github.com/Imran-developer-12/gct-website) |
+| **AI Voice Assistant** | HTML, CSS, JS, Node.js | [🔴 Live](https://imran-developer-12.github.io/AI-Voice-Assisstant/) \| [💻 Repo](https://github.com/imran-developer-12/AI-Voice-Assisstant) |
+| **Tic Tac Toe Web App** | HTML, CSS, JavaScript | [🔴 Live](https://imran-developer-12.github.io/-Tic-tac-toe-game/) \| [💻 Repo](https://github.com/imran-developer-12/-Tic-tac-toe-game) |
 
 ---
 
@@ -89,34 +122,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imran-developer-12&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imran-developer-12&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imran-developer-12&theme=react-dark" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imran-developer-12&theme=onestar&no-frame=true" />
-</p>
-
----
-
-<p align="center">
-⭐ Open for internships, freelance projects & collaborations
-</p>      please remove the github stats and also the skills are in a table with there icons and with animations and replace the github stats with some new features looks like professional and modren readme repo
