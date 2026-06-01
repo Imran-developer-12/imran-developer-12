@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer | CIT Student | MERN Stack Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Building+Responsive+Web+Interfaces;Learning+MERN+Stack;Open+for+Internships+and+Freelance+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Building+Responsive+Web+Interfaces;Learning+MERN+Stack;Open+for+Opportunities" />
 </p>
 
 ---
@@ -12,182 +12,99 @@
 - 🎓 Studying **Computer Information Technology (CIT)**
 - 💻 Working as a **Full Stack Web Developer**
 - 🎨 Skilled in **HTML, CSS, JavaScript, Bootstrap**
-- ⚙️ Building backend applications with **Node.js**
-- 🗄️ Working with **MongoDB & MySQL**
-- 🚀 Passionate about creating modern and responsive web experiences
-- 🔭 Currently working on JavaScript & Full Stack Projects
+- ⚙️ Also building logic with **C++ (OOP)**
+- 🚀 Passionate about creating **modern, responsive UI**
+- 🔭 Currently working on **JavaScript projects**
 - 🌱 Learning **MERN Stack Development**
-- 🤝 Open for **Internships, Freelance Projects & Collaborations**
+- 🤝 Open for **internships & freelance work**
+
+☕ Coding with focus & consistency  
 
 ---
 
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-i-7a391b3a9">LinkedIn</a> •
-  <a href="https://muhammad-imran-dev.netlify.app">Portfolio</a> •
-  <a href="mailto:imrancit104@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/muhammad-i-7a391b3a9">🔗 LinkedIn</a> • 
+  <a href="https://muhammad-imran-dev.netlify.app">🌐 Portfolio</a> • 
+  <a href="mailto:imrancit104@gmail.com">📧 Email</a> • 
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Expertise
 
-<table align="center">
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=html" width="50"/><br>
-<b>HTML5</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=css" width="50"/><br>
-<b>CSS3</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=js" width="50"/><br>
-<b>JavaScript</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>
-<b>Bootstrap</b>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>
-<b>Node.js</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>
-<b>MongoDB</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>
-<b>MySQL</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>
-<b>C++</b>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="50"/><br>
-<b>Git</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="50"/><br>
-<b>GitHub</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>
-<b>VS Code</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=figma" width="50"/><br>
-<b>Figma</b>
-</td>
-</tr>
-</table>
+### 🎨 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
 
 ---
 
-## 🚀 What I Do
-
-✅ Responsive Website Development
-
-✅ Modern UI/UX Design
-
-✅ Full Stack Web Applications
-
-✅ Database Integration
-
-✅ MERN Stack Development
-
-✅ Website Deployment & Optimization
+### ⚙️ Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
+</p>
 
 ---
 
-## 🎯 Current Focus
-
-- 🌱 Learning MERN Stack Development
-- 🔥 Improving Backend Skills
-- ⚡ Building Real World Projects
-- 🚀 Expanding Full Stack Expertise
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js" />
+</p>
 
 ---
 
-## 💼 Services
-
-| Service | Description |
-|----------|------------|
-| 🌐 Website Development | Responsive and Modern Websites |
-| 🎨 Frontend Development | Interactive User Interfaces |
-| ⚙️ Backend Development | Node.js Applications |
-| 🗄️ Database Management | MongoDB & MySQL |
-| 🚀 Deployment | GitHub & Netlify Deployment |
+### 🧰 Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🎓 College Website
-**Tech Stack:** HTML, CSS, JavaScript
-
-🔗 Live Demo: https://gctbhakkar.netlify.app/
-
-💻 Repository: https://github.com/Imran-developer-12/gct-website
+🔹 **College Websites**  
+➡️ HTML, CSS, JavaScript  
+[🔴 Live](https://gctbhakkar.netlify.app/) | [💻 Repo](https://github.com/Imran-developer-12/gct-website)
 
 ---
 
-### 🎙️ AI Voice Assistant
-
-**Tech Stack:** HTML, CSS, JavaScript, Node.js
-
-🔗 Live Demo: https://imran-developer-12.github.io/AI-Voice-Assisstant/
-
-💻 Repository: https://github.com/imran-developer-12/AI-Voice-Assisstant
+🔹 **AI Voice Assistant**  
+➡️ HTML, CSS, JavaScript, Node.js  
+[🔴 Live](https://imran-developer-12.github.io/AI-Voice-Assisstant/) | [💻 Repo](https://github.com/imran-developer-12/AI-Voice-Assisstant)
 
 ---
 
-### 🎮 Tic Tac Toe Game
-
-**Tech Stack:** HTML, CSS, JavaScript
-
-🔗 Live Demo: https://imran-developer-12.github.io/-Tic-tac-toe-game/
-
-💻 Repository: https://github.com/imran-developer-12/-Tic-tac-toe-game
+🔹 **Tic Tac Toe Web App**  
+➡️ HTML, CSS, JavaScript  
+[🔴 Live](https://imran-developer-12.github.io/-Tic-tac-toe-game/) | [💻 Repo](https://github.com/imran-developer-12/-Tic-tac-toe-game)
 
 ---
 
 ## 🎓 Academic Journey
 
-### 🏛️ Diploma in CIT
-Government College of Technology
-
-📅 2024 - Present
-
-### 🏫 Secondary School Certificate (Science)
-
-📅 2022 - 2024
+- 🏛️ **Diploma in CIT** – Govt. College of Technology *(2024 - Present)*  
+- 🏫 **SSC (Science)** *(2022 - 2024)*  
 
 ---
 
-## 👀 Profile Views
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imran-developer-12&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imran-developer-12&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imran-developer-12&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imran-developer-12&theme=react-dark" />
 </p>
 
 ---
@@ -195,30 +112,11 @@ Government College of Technology
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imran-developer-12&theme=algolia&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=imran-developer-12&theme=onestar&no-frame=true" />
 </p>
-
----
-
-## ⚡ Fun Fact
-
-💡 I enjoy transforming ideas into real-world web applications and continuously improving my development skills.
-
----
-
-## 📬 Let's Collaborate
-
-I'm always interested in:
-
-- 🚀 Freelance Opportunities
-- 💼 Internship Positions
-- 🤝 Open Source Contributions
-- 🌍 Web Development Projects
-
-Feel free to connect with me and let's build something amazing together!
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider following my GitHub profile!
-</p>
+⭐ Open for internships, freelance projects & collaborations
+</p>      please remove the github stats and also the skills are in a table with there icons and with animations and replace the github stats with some new features looks like professional and modren readme repo
