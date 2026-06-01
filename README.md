@@ -1,4 +1,4 @@
-# Hello 👋 I'm Muhammad Imran
+# Hi there 👋, I'm Muhammad Imran
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Web+Developer;CIT+Student;MERN+Stack+Learner;Open+for+Opportunities" alt="Animated Bio" />
@@ -25,23 +25,28 @@ I enjoy developing scalable and user-friendly applications, from designing respo
 
 ## 🛠️ Technical Expertise
 
-| Frontend | Backend & Database | Tools |
-| :--- | :--- | :--- |
-| HTML | Node.js | Git |
-| CSS | Express.js | VS Code |
-| JavaScript | MongoDB | Figma |
-| Bootstrap | MySQL | GitHub |
-| | C++ | |
+| Category | Skills |
+| :--- | :--- |
+| **Frontend Development** | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, JavaScript, Bootstrap" /> |
+| **Backend & Database** | <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" alt="Node.js, MongoDB, MySQL" /> |
+| **Programming Languages** | <img src="https://skillicons.dev/icons?i=cpp,js" alt="C++, JavaScript" /> |
+| **Tools & Technologies** | <img src="https://skillicons.dev/icons?i=git,vscode,figma" alt="Git, VS Code, Figma" /> |
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Projects
 
-| Project | Summary | Technologies | Access |
-| :--- | :--- | :--- | :--- |
-| **College Websites** | A responsive academic interface designed for handling institutional information digitally. | HTML, CSS, JS | [🔴 Live](https://gctbhakkar.netlify.app/) <br> [💻 Repo](https://github.com/Imran-developer-12/gct-website) |
-| **AI Voice Assistant** | An interactive voice assistant built to respond to user commands and perform tasks. | HTML, CSS, JS, Node.js | [🔴 Live](https://imran-developer-12.github.io/AI-Voice-Assisstant/) <br> [💻 Repo](https://github.com/imran-developer-12/AI-Voice-Assisstant) |
-| **Tic Tac Toe Web App** | A browser-based two-player game built with interactive UI and logical gameplay mechanics. | HTML, CSS, JS | [🔴 Live](https://imran-developer-12.github.io/-Tic-tac-toe-game/) <br> [💻 Repo](https://github.com/imran-developer-12/-Tic-tac-toe-game) |
+- **College Websites**
+  - Technologies: HTML, CSS, JavaScript
+  - [🔴 Live](https://gctbhakkar.netlify.app/) | [💻 Repo](https://github.com/Imran-developer-12/gct-website)
+
+- **AI Voice Assistant**
+  - Technologies: HTML, CSS, JavaScript, Node.js
+  - [🔴 Live](https://imran-developer-12.github.io/AI-Voice-Assisstant/) | [💻 Repo](https://github.com/imran-developer-12/AI-Voice-Assisstant)
+
+- **Tic Tac Toe Web App**
+  - Technologies: HTML, CSS, JavaScript
+  - [🔴 Live](https://imran-developer-12.github.io/-Tic-tac-toe-game/) | [💻 Repo](https://github.com/imran-developer-12/-Tic-tac-toe-game)
 
 ---
 
@@ -63,5 +68,5 @@ I enjoy developing scalable and user-friendly applications, from designing respo
 ---
 
 <p align="center">
-  <em>"Consistency in coding builds perfection in development."</em>
+  ⭐ Open for internships, freelance projects & collaborations
 </p>
