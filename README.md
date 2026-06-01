@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Imran</h1>
+<h1 align="center">Hi, I'm Muhammad Imran</h1>
 <h3 align="center">Full Stack Web Developer | CIT Student | MERN Stack Learner</h3>
 
 <p align="center">
@@ -7,149 +7,91 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Studying **Computer Information Technology (CIT)**
-- 💻 Working as a **Full Stack Web Developer**
-- 🎨 Skilled in **HTML, CSS, JavaScript, Bootstrap**
-- ⚙️ Also building logic with **C++ (OOP)**
-- 🚀 Passionate about creating **modern, responsive UI**
-- 🔭 Currently working on **JavaScript projects**
-- 🌱 Learning **MERN Stack Development**
-- 🤝 Open for **internships & freelance work**
+- Studying Computer Information Technology (CIT)
+- Working as a Full Stack Web Developer
+- Skilled in HTML, CSS, JavaScript, Bootstrap
+- Also building logic with C++ (OOP)
+- Passionate about creating modern, responsive UI
+- Currently working on JavaScript projects
+- Learning MERN Stack Development
+- Open for internships and freelance work
 
-☕ Coding with focus & consistency  
+Coding with focus and consistency.
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-i-7a391b3a9">🔗 LinkedIn</a> • 
-  <a href="https://muhammad-imran-dev.netlify.app">🌐 Portfolio</a> • 
-  <a href="mailto:imrancit104@gmail.com">📧 Email</a>
+  <a href="https://www.linkedin.com/in/muhammad-i-7a391b3a9">LinkedIn</a> • 
+  <a href="https://muhammad-imran-dev.netlify.app">Portfolio</a> • 
+  <a href="mailto:imrancit104@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🛠️ Technical Expertise
+## Technical Expertise
 
 <table align="center">
   <thead>
     <tr>
-      <th align="center">🎨 Frontend</th>
-      <th align="center">⚙️ Backend & Database</th>
-      <th align="center">💻 Programming Languages</th>
-      <th align="center">🧰 Tools & Technologies</th>
+      <th align="center">Frontend</th>
+      <th align="center">Backend & Database</th>
+      <th align="center">Programming Languages</th>
+      <th align="center">Tools & Technologies</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br />
-        <strong>HTML</strong>
+        HTML
        </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br />
-        <strong>Node.js</strong>
+        Node.js
        </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br />
-        <strong>C++</strong>
+        C++
        </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br />
-        <strong>Git</strong>
+        Git
        </td>
     </tr>
     <tr>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br />
-        <strong>CSS</strong>
+        CSS
        </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br />
-        <strong>Express</strong>
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br />
+        MongoDB
        </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br />
-        <strong>JavaScript</strong>
+        JavaScript
        </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br />
-        <strong>GitHub</strong>
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br />
+        VS Code
        </td>
     </tr>
     <tr>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br />
-        <strong>Bootstrap</strong>
-       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br />
-        <strong>MongoDB</strong>
-       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br />
-        <strong>Python</strong>
-       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br />
-        <strong>VS Code</strong>
-       </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br />
-        <strong>React</strong>
+        Bootstrap
        </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br />
-        <strong>MySQL</strong>
-       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br />
-        <strong>Java</strong>
+        MySQL
        </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br />
-        <strong>Figma</strong>
-       </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br />
-        <strong>Tailwind</strong>
-       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br />
-        <strong>Firebase</strong>
-       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br />
-        <strong>PHP</strong>
-       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br />
-        <strong>Vercel</strong>
-       </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" /><br />
-        <strong>jQuery</strong>
-       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br />
-        <strong>Postman</strong>
-       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br />
-        <strong>HTML5</strong>
-       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /><br />
-        <strong>Netlify</strong>
+        Figma
        </td>
     </tr>
   </tbody>
@@ -157,7 +99,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <table align="center">
   <thead>
@@ -172,24 +114,24 @@
       <td align="center"><strong>College Websites</strong></td>
       <td align="center">HTML, CSS, JavaScript</td>
       <td align="center">
-        <a href="https://gctbhakkar.netlify.app/">🔴 Live</a> | 
-        <a href="https://github.com/Imran-developer-12/gct-website">💻 Repo</a>
+        <a href="https://gctbhakkar.netlify.app/">Live</a> | 
+        <a href="https://github.com/Imran-developer-12/gct-website">Repo</a>
       </td>
     </tr>
     <tr>
       <td align="center"><strong>AI Voice Assistant</strong></td>
-      <td align="center">HTML, CSS, JS, Node.js</td>
+      <td align="center">HTML, CSS, JavaScript, Node.js</td>
       <td align="center">
-        <a href="https://imran-developer-12.github.io/AI-Voice-Assisstant/">🔴 Live</a> | 
-        <a href="https://github.com/imran-developer-12/AI-Voice-Assisstant">💻 Repo</a>
+        <a href="https://imran-developer-12.github.io/AI-Voice-Assisstant/">Live</a> | 
+        <a href="https://github.com/imran-developer-12/AI-Voice-Assisstant">Repo</a>
       </td>
     </tr>
     <tr>
       <td align="center"><strong>Tic Tac Toe Web App</strong></td>
       <td align="center">HTML, CSS, JavaScript</td>
       <td align="center">
-        <a href="https://imran-developer-12.github.io/-Tic-tac-toe-game/">🔴 Live</a> | 
-        <a href="https://github.com/imran-developer-12/-Tic-tac-toe-game">💻 Repo</a>
+        <a href="https://imran-developer-12.github.io/-Tic-tac-toe-game/">Live</a> | 
+        <a href="https://github.com/imran-developer-12/-Tic-tac-toe-game">Repo</a>
       </td>
     </tr>
   </tbody>
@@ -197,13 +139,24 @@
 
 ---
 
-## 🎓 Academic Journey
+## Academic Journey
 
-- 🏛️ **Diploma in CIT** – Govt. College of Technology *(2024 - Present)*  
-- 🏫 **SSC (Science)** *(2022 - 2024)*  
+- Diploma in CIT – Govt. College of Technology (2024 - Present)
+- SSC (Science) (2022 - 2024)
 
 ---
 
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imran-developer-12/imran-developer-12/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imran-developer-12/imran-developer-12/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/imran-developer-12/imran-developer-12/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
 
 
 
@@ -213,15 +166,7 @@
 
 ---
 
-## 📊 Coding Stats
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
-
----
-
-## 👀 Profile Views
+## Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imran-developer-12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -233,7 +178,7 @@
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=imran-developer-12&theme=tokyonight&no-frame=true&row=2&column=4" />
@@ -241,10 +186,10 @@
 
 ---
 
-## 📫 Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 <p align="center">
-  <b>I'm actively looking for internships, freelance projects, and collaborations!</b>
+  I am actively looking for internships, freelance projects, and collaborations.
 </p>
 
 <p align="center">
@@ -269,5 +214,5 @@
 </p>
 
 <p align="center">
-  <i>“Code with passion, build with purpose”</i>
+  Code with passion, build with purpose.
 </p>
