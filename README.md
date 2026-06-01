@@ -1,72 +1,224 @@
-# Hi there 👋, I'm Muhammad Imran
+<h1 align="center">Hi 👋, I'm Muhammad Imran</h1>
+<h3 align="center">Full Stack Web Developer | CIT Student | MERN Stack Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Web+Developer;CIT+Student;MERN+Stack+Learner;Open+for+Opportunities" alt="Animated Bio" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvcounter/?username=imran-developer-12" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Building+Responsive+Web+Interfaces;Learning+MERN+Stack;Open+for+Internships+and+Freelance+Projects" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am currently studying Computer Information Technology (CIT) and working as a Full Stack Web Developer. I build web applications using HTML, CSS, JavaScript, and Bootstrap, and I am actively mastering the MERN Stack (MongoDB, Express.js, React, Node.js). I also have strong logic-building fundamentals in C++ (OOP).
-
-I enjoy developing scalable and user-friendly applications, from designing responsive frontend interfaces to building efficient backend logic. I focus on writing clean, maintainable code and continuously improving my problem-solving skills.
-
-☕ Coding with focus & consistency  
-🔭 Currently working on JavaScript & MERN stack projects  
-🌱 Improving backend & database skills  
-🤝 Available for internship & freelance opportunities  
-
----
-
-## 🛠️ Technical Expertise
-
-| Category | Skills |
-| :--- | :--- |
-| **Frontend Development** | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, JavaScript, Bootstrap" /> |
-| **Backend & Database** | <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" alt="Node.js, MongoDB, MySQL" /> |
-| **Programming Languages** | <img src="https://skillicons.dev/icons?i=cpp,js" alt="C++, JavaScript" /> |
-| **Tools & Technologies** | <img src="https://skillicons.dev/icons?i=git,vscode,figma" alt="Git, VS Code, Figma" /> |
-
----
-
-## 🚀 Projects
-
-- **College Websites**
-  - Technologies: HTML, CSS, JavaScript
-  - [🔴 Live](https://gctbhakkar.netlify.app/) | [💻 Repo](https://github.com/Imran-developer-12/gct-website)
-
-- **AI Voice Assistant**
-  - Technologies: HTML, CSS, JavaScript, Node.js
-  - [🔴 Live](https://imran-developer-12.github.io/AI-Voice-Assisstant/) | [💻 Repo](https://github.com/imran-developer-12/AI-Voice-Assisstant)
-
-- **Tic Tac Toe Web App**
-  - Technologies: HTML, CSS, JavaScript
-  - [🔴 Live](https://imran-developer-12.github.io/-Tic-tac-toe-game/) | [💻 Repo](https://github.com/imran-developer-12/-Tic-tac-toe-game)
-
----
-
-## 🎓 Academic Journey
-
-- 🏛️ **Diploma in CIT** – Govt. College of Technology *(2024 - Present)*
-- 🏫 **SSC (Science)** *(2022 - 2024)*
+- 🎓 Studying **Computer Information Technology (CIT)**
+- 💻 Working as a **Full Stack Web Developer**
+- 🎨 Skilled in **HTML, CSS, JavaScript, Bootstrap**
+- ⚙️ Building backend applications with **Node.js**
+- 🗄️ Working with **MongoDB & MySQL**
+- 🚀 Passionate about creating modern and responsive web experiences
+- 🔭 Currently working on JavaScript & Full Stack Projects
+- 🌱 Learning **MERN Stack Development**
+- 🤝 Open for **Internships, Freelance Projects & Collaborations**
 
 ---
 
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-i-7a391b3a9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://muhammad-imran-dev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:imrancit104@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-i-7a391b3a9">LinkedIn</a> •
+  <a href="https://muhammad-imran-dev.netlify.app">Portfolio</a> •
+  <a href="mailto:imrancit104@gmail.com">Email</a>
 </p>
 
 ---
 
+## 🛠️ Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br>
+<b>HTML5</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br>
+<b>CSS3</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br>
+<b>JavaScript</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>
+<b>Bootstrap</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>
+<b>Node.js</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>
+<b>MongoDB</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>
+<b>MySQL</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>
+<b>C++</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>
+<b>Git</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>
+<b>GitHub</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>
+<b>VS Code</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma" width="50"/><br>
+<b>Figma</b>
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 What I Do
+
+✅ Responsive Website Development
+
+✅ Modern UI/UX Design
+
+✅ Full Stack Web Applications
+
+✅ Database Integration
+
+✅ MERN Stack Development
+
+✅ Website Deployment & Optimization
+
+---
+
+## 🎯 Current Focus
+
+- 🌱 Learning MERN Stack Development
+- 🔥 Improving Backend Skills
+- ⚡ Building Real World Projects
+- 🚀 Expanding Full Stack Expertise
+
+---
+
+## 💼 Services
+
+| Service | Description |
+|----------|------------|
+| 🌐 Website Development | Responsive and Modern Websites |
+| 🎨 Frontend Development | Interactive User Interfaces |
+| ⚙️ Backend Development | Node.js Applications |
+| 🗄️ Database Management | MongoDB & MySQL |
+| 🚀 Deployment | GitHub & Netlify Deployment |
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 College Website
+**Tech Stack:** HTML, CSS, JavaScript
+
+🔗 Live Demo: https://gctbhakkar.netlify.app/
+
+💻 Repository: https://github.com/Imran-developer-12/gct-website
+
+---
+
+### 🎙️ AI Voice Assistant
+
+**Tech Stack:** HTML, CSS, JavaScript, Node.js
+
+🔗 Live Demo: https://imran-developer-12.github.io/AI-Voice-Assisstant/
+
+💻 Repository: https://github.com/imran-developer-12/AI-Voice-Assisstant
+
+---
+
+### 🎮 Tic Tac Toe Game
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+🔗 Live Demo: https://imran-developer-12.github.io/-Tic-tac-toe-game/
+
+💻 Repository: https://github.com/imran-developer-12/-Tic-tac-toe-game
+
+---
+
+## 🎓 Academic Journey
+
+### 🏛️ Diploma in CIT
+Government College of Technology
+
+📅 2024 - Present
+
+### 🏫 Secondary School Certificate (Science)
+
+📅 2022 - 2024
+
+---
+
+## 👀 Profile Views
+
 <p align="center">
-  ⭐ Open for internships, freelance projects & collaborations
+  <img src="https://komarev.com/ghpvc/?username=imran-developer-12&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imran-developer-12&theme=algolia&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💡 I enjoy transforming ideas into real-world web applications and continuously improving my development skills.
+
+---
+
+## 📬 Let's Collaborate
+
+I'm always interested in:
+
+- 🚀 Freelance Opportunities
+- 💼 Internship Positions
+- 🤝 Open Source Contributions
+- 🌍 Web Development Projects
+
+Feel free to connect with me and let's build something amazing together!
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider following my GitHub profile!
 </p>
