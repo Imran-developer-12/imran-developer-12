@@ -34,25 +34,126 @@
 
 ## 🛠️ Technical Expertise
 
-### 🎨 Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind" />
-</p>
-
-### ⚙️ Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-</p>
-
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,py" />
-</p>
-
-### 🧰 Tools & Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
-</p>
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">🎨 Frontend</th>
+      <th align="center">⚙️ Backend & Database</th>
+      <th align="center">💻 Programming Languages</th>
+      <th align="center">🧰 Tools & Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br />
+        <strong>HTML</strong>
+       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br />
+        <strong>Node.js</strong>
+       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br />
+        <strong>C++</strong>
+       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br />
+        <strong>Git</strong>
+       </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br />
+        <strong>CSS</strong>
+       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br />
+        <strong>Express</strong>
+       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br />
+        <strong>JavaScript</strong>
+       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br />
+        <strong>GitHub</strong>
+       </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br />
+        <strong>Bootstrap</strong>
+       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br />
+        <strong>MongoDB</strong>
+       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br />
+        <strong>Python</strong>
+       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br />
+        <strong>VS Code</strong>
+       </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br />
+        <strong>React</strong>
+       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br />
+        <strong>MySQL</strong>
+       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br />
+        <strong>Java</strong>
+       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br />
+        <strong>Figma</strong>
+       </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br />
+        <strong>Tailwind</strong>
+       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br />
+        <strong>Firebase</strong>
+       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br />
+        <strong>PHP</strong>
+       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br />
+        <strong>Vercel</strong>
+       </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" /><br />
+        <strong>jQuery</strong>
+       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br />
+        <strong>Postman</strong>
+       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br />
+        <strong>HTML5</strong>
+       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /><br />
+        <strong>Netlify</strong>
+       </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -103,43 +204,8 @@
 
 ---
 
-## 📈 Weekly Development Breakdown
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=imran-developer-12&theme=tokyonight&layout=compact&v=2" alt="WakaTime Stats" />
-</p>
 
----
-
-## 🎵 Now Playing on Spotify
-
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
-  </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imran-developer-12/imran-developer-12/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imran-developer-12/imran-developer-12/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/imran-developer-12/imran-developer-12/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
-## ⚡ Recent GitHub Activity
-
-<!--RECENT_ACTIVITY:start-->
-- 🎉 Merged PR [#1] in [project-name](link)
-- 💪 Pushed code to [repo-name](link)
-- 🗣 Commented on issue [#2] in [repo-name](link)
-<!--RECENT_ACTIVITY:end-->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imran-developer-12&theme=react-dark&bg_color=0d1117&hide_border=true" />
