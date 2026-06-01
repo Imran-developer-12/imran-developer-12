@@ -1,6 +1,6 @@
 <div align="center">
   
-# ⚡Hi,I'm Muhammad Imran ⚡
+# 🙋‍♂️ Hey there, I'm Muhammad Imran 👋
 
 ### Full Stack Web Developer | CIT Student | MERN Stack Learner
 
@@ -94,6 +94,7 @@ I am Muhammad Imran, a passionate Full Stack Web Developer and CIT student. I bu
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
 </div>
+
 
 <div align="center">
  <div align="center">
