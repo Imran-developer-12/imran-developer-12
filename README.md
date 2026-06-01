@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Muhammad Imran
+# Hello 👋 I'm Muhammad Imran
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Web+Developer;CIT+Student;MERN+Stack+Learner;Open+for+Opportunities" alt="Animated Bio" />
@@ -10,55 +10,38 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I am a passionate Full Stack Web Developer and a Computer Information Technology (CIT) student, currently focused on mastering the MERN Stack. My expertise spans across crafting modern, responsive user interfaces with HTML, CSS, JavaScript, and Bootstrap, while also building robust logic using C++ (OOP). I am actively working on various JavaScript projects and am always eager to contribute to innovative solutions. I am open to internships and freelance opportunities to further enhance my skills and contribute to impactful projects.
+I am currently studying Computer Information Technology (CIT) and working as a Full Stack Web Developer. I build web applications using HTML, CSS, JavaScript, and Bootstrap, and I am actively mastering the MERN Stack (MongoDB, Express.js, React, Node.js). I also have strong logic-building fundamentals in C++ (OOP).
 
-### 🎯 Current Focus
+I enjoy developing scalable and user-friendly applications, from designing responsive frontend interfaces to building efficient backend logic. I focus on writing clean, maintainable code and continuously improving my problem-solving skills.
 
-- 📚 Deepening my knowledge in MERN Stack development.
-- 🚀 Building scalable and efficient web applications.
-- 🤝 Collaborating on open-source projects.
-
----
-
-## 🛠️ Skills & Technologies
-
-### Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, JavaScript, Bootstrap" />
-</p>
-
-### Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,express" alt="Node.js, MongoDB, MySQL, Express" />
-</p>
-
-### Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js" alt="C++, JavaScript" />
-</p>
-
-### Tools & Others
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,github" alt="Git, VS Code, Figma, GitHub" />
-</p>
+☕ Coding with focus & consistency  
+🔭 Currently working on JavaScript & MERN stack projects  
+🌱 Improving backend & database skills  
+🤝 Available for internship & freelance opportunities  
 
 ---
 
-## 💡 Projects
+## 🛠️ Technical Expertise
 
-- **College Websites**
-  - Technologies: HTML, CSS, JavaScript
-  - [🔴 Live](https://gctbhakkar.netlify.app/) | [💻 Repo](https://github.com/Imran-developer-12/gct-website)
+| Frontend | Backend & Database | Tools |
+| :--- | :--- | :--- |
+| HTML | Node.js | Git |
+| CSS | Express.js | VS Code |
+| JavaScript | MongoDB | Figma |
+| Bootstrap | MySQL | GitHub |
+| | C++ | |
 
-- **AI Voice Assistant**
-  - Technologies: HTML, CSS, JavaScript, Node.js
-  - [🔴 Live](https://imran-developer-12.github.io/AI-Voice-Assisstant/) | [💻 Repo](https://github.com/imran-developer-12/AI-Voice-Assisstant)
+---
 
-- **Tic Tac Toe Web App**
-  - Technologies: HTML, CSS, JavaScript
-  - [🔴 Live](https://imran-developer-12.github.io/-Tic-tac-toe-game/) | [💻 Repo](https://github.com/imran-developer-12/-Tic-tac-toe-game)
+## 🚀 Key Projects
+
+| Project | Summary | Technologies | Access |
+| :--- | :--- | :--- | :--- |
+| **College Websites** | A responsive academic interface designed for handling institutional information digitally. | HTML, CSS, JS | [🔴 Live](https://gctbhakkar.netlify.app/) <br> [💻 Repo](https://github.com/Imran-developer-12/gct-website) |
+| **AI Voice Assistant** | An interactive voice assistant built to respond to user commands and perform tasks. | HTML, CSS, JS, Node.js | [🔴 Live](https://imran-developer-12.github.io/AI-Voice-Assisstant/) <br> [💻 Repo](https://github.com/imran-developer-12/AI-Voice-Assisstant) |
+| **Tic Tac Toe Web App** | A browser-based two-player game built with interactive UI and logical gameplay mechanics. | HTML, CSS, JS | [🔴 Live](https://imran-developer-12.github.io/-Tic-tac-toe-game/) <br> [💻 Repo](https://github.com/imran-developer-12/-Tic-tac-toe-game) |
 
 ---
 
@@ -80,5 +63,5 @@ I am a passionate Full Stack Web Developer and a Computer Information Technology
 ---
 
 <p align="center">
-  ⭐ Open for internships, freelance projects & collaborations
+  <em>"Consistency in coding builds perfection in development."</em>
 </p>
