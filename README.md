@@ -1,10 +1,24 @@
-<h1 align="center">Hi 👋, I'm Muhammad Imran</h1>
-<h3 align="center">Full Stack Web Developer | CIT Student | MERN Stack Learner</h3>
+# Hi there 👋, I'm Muhammad Imran
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Web+Developer;CIT+Student;MERN+Stack+Learner;Open+for+Opportunities" alt="Animated Bio" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvcounter/?username=imran-developer-12" alt="Profile views" />
+</p>
+
+---
 
 ## 🚀 About Me
 
 I am a passionate Full Stack Web Developer and a Computer Information Technology (CIT) student, currently focused on mastering the MERN Stack. My expertise spans across crafting modern, responsive user interfaces with HTML, CSS, JavaScript, and Bootstrap, while also building robust logic using C++ (OOP). I am actively working on various JavaScript projects and am always eager to contribute to innovative solutions. I am open to internships and freelance opportunities to further enhance my skills and contribute to impactful projects.
+
+### 🎯 Current Focus
+
+- 📚 Deepening my knowledge in MERN Stack development.
+- 🚀 Building scalable and efficient web applications.
+- 🤝 Collaborating on open-source projects.
 
 ---
 
@@ -12,7 +26,7 @@ I am a passionate Full Stack Web Developer and a Computer Information Technology
 
 ### Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" alt="HTML, CSS, JavaScript, Bootstrap, React" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, JavaScript, Bootstrap" />
 </p>
 
 ### Backend & Database
@@ -22,7 +36,7 @@ I am a passionate Full Stack Web Developer and a Computer Information Technology
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,python" alt="C++, JavaScript, Python" />
+  <img src="https://skillicons.dev/icons?i=cpp,js" alt="C++, JavaScript" />
 </p>
 
 ### Tools & Others
@@ -52,26 +66,6 @@ I am a passionate Full Stack Web Developer and a Computer Information Technology
 
 - 🏛️ **Diploma in CIT** – Govt. College of Technology *(2024 - Present)*
 - 🏫 **SSC (Science)** *(2022 - 2024)*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imran-developer-12&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imran-developer-12&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imran-developer-12&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imran-developer-12&theme=onestar&no-frame=true" alt="GitHub Trophies" />
-</p>
 
 ---
 
