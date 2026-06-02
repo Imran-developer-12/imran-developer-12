@@ -1,6 +1,8 @@
 <div align="center">
   
-# 👋 Hi, I'm Muhammad Imran
+<h1 align="center">
+  Hello 👋 I'm <a href="https://github.com/Imran-developer-12">Muhammad Imran</a>
+</h1>
 
 ### Full Stack Web Developer | CIT Student | MERN Stack Learner 🚀
 
