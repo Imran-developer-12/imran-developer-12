@@ -12,13 +12,14 @@
 
 ---
 
-## ⭕ About Me
+## 👨‍💻 About Me
 
-I am Muhammad Imran, a passionate Full Stack Web Developer and CIT student. I build modern, responsive web applications using HTML, CSS, JavaScript, and Bootstrap. Currently, I am expanding my skills in JavaScript, Node.js, and the MERN Stack while strengthening my programming foundation with C++. I am open to internships, freelance opportunities, and collaborative projects.
+I am Muhammad Imran, a passionate Full Stack Web Developer and CIT student. I build modern, responsive web applications using HTML, CSS, JavaScript, and Bootstrap. Currently, I am expanding my skills in JavaScript, Node.js, and the MERN Stack while strengthening my programming foundation with C++.
+I am open to internships, freelance opportunities, and collaborative projects.
 
 ---
 
-## ⭕ Technical Expertise
+## 🛠️ Technical Expertise
 
 <div align="center">
 
@@ -31,7 +32,7 @@ I am Muhammad Imran, a passionate Full Stack Web Developer and CIT student. I bu
 </div>
 ---
 
-## ⭕ Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -45,7 +46,7 @@ I am Muhammad Imran, a passionate Full Stack Web Developer and CIT student. I bu
 
 ---
 
-## ⭕ Education
+## 🎓 Education
 
 - Diploma in CIT — Govt. College of Technology (2024 - Present)
 - Matric in Govt High School Behal Bhakkar (Science) — (2022 - 2024)
@@ -60,7 +61,7 @@ I am Muhammad Imran, a passionate Full Stack Web Developer and CIT student. I bu
 
 ---
 
-## ⭕ Profile Views
+## 👁️‍🗨️ Profile Views
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=imran-developer-12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -74,7 +75,7 @@ I am Muhammad Imran, a passionate Full Stack Web Developer and CIT student. I bu
 
 
 
-## ⭕ Connect With Me
+## 📞 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-i-7a391b3a9">
