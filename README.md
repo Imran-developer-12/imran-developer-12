@@ -15,7 +15,12 @@
 ## 👨‍💻 About Me
 
 I am Muhammad Imran, a passionate Full Stack Web Developer and CIT student. I build modern, responsive web applications using HTML, CSS, JavaScript, and Bootstrap. Currently, I am expanding my skills in JavaScript, Node.js, and the MERN Stack while strengthening my programming foundation with C++.
+
 I am open to internships, freelance opportunities, and collaborative projects.
+- ☕ Coding with focus & consistency
+- 🔭 Currently working on MERN stack projects
+- 🌱 Improving backend & database skills
+- 🤝 Available for internship opportunities
 
 ---
 
