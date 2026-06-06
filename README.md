@@ -52,29 +52,6 @@ I am open to internships, freelance opportunities, and collaborative projects.
 - Matric in Govt High School Behal Bhakkar (Science) — (2022 - 2024)
 
 ---
-
-## ⭕ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
-
-## 👁️‍🗨️ Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=imran-developer-12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/imran-developer-12?label=Followers&style=social" alt="GitHub Followers" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/imran-developer-12?label=Stars&style=social" alt="GitHub Stars" />
-</div>
-
----
-
-
-
 ## 📞 Connect With Me
 
 <div align="center">
@@ -94,6 +71,27 @@ I am open to internships, freelance opportunities, and collaborative projects.
 
 ---
 
+
+
+## 👁️‍🗨️ Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=imran-developer-12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/imran-developer-12?label=Followers&style=social" alt="GitHub Followers" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/imran-developer-12?label=Stars&style=social" alt="GitHub Stars" />
+</div>
+
+---
+
+## ⭕ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
 </div>
