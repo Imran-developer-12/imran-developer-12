@@ -1,7 +1,7 @@
 <div align="center">
   
 <h1 align="center">
-  Hello 👋 I'm <a href="https://github.com/Imran-developer-12">Muhammad Imran</a>
+  Hello 👋 I'm <a href="https://github.com/Imran-developer-12">M Imran</a>
 </h1>
 
 ### Full Stack Web Developer | CIT Student | MERN Stack Learner 🚀
